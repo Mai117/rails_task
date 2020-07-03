@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
 
-    def index
-        @greet = "Hello World!!"
-      end
+  def index
+    @greet = "Hello World!!"
+  end
 
 end
